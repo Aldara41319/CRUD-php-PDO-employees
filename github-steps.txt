@@ -11,7 +11,7 @@
 7. Make our "First Commit"
 8. Remote -> Add remote (copy the url of repository: https://github.com/profeCarballeira/CRUD-php-PDOemployees.git)
                         and stablish the name: origin
-9. 
+9. Push (using the menu Pull/push or directly on the blue button)
 
 
 
